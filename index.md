@@ -51,8 +51,16 @@ Beijing, China
 
 - B.S. in Automation, School of Control and Computer Enginering
 
+
 ## Publications
 
+### [**Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures**](https://ieeexplore.ieee.org/document/9212884)
+Zehua Guo, **Songshi Dou**, Wenchao Jiang.<br> 
+_2020 IEEE/ACM 28th International Symposium on Quality of Service (IWQoS)._<br>
+[[PDF]({{ page.homepage.url }}/assets/IWQoS2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/IWQoS2020.txt)]
+
+<!--
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
 _ACM Transactions on Graphics (SIGGRAPH'20), to appear._<br>
@@ -97,6 +105,9 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+-->
+
+
 
 ## Experience
 
