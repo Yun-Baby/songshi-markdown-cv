@@ -1,0 +1,13 @@
+@INPROCEEDINGS{9212884,
+  author={Z. {Guo} and S. {Dou} and W. {Jiang}},
+  booktitle={2020 IEEE/ACM 28th International Symposium on Quality of Service (IWQoS)}, 
+  title={Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-10},
+  abstract={Enabling path programmability is an essential feature of Software-Defined Networking (SDN). During controller failures in Software-Defined Wide Area Networks (SD-WANs), a resilient design should maintain path programmability for offline flows, which were controlled by the failed controllers. Existing solutions can only partially recover the path programmability rooted in two problems: (1) the implicit preferable recovering flows with long paths and (2) the sub-optimal remapping strategy in the coarse-grained switch level. In this paper, we propose Programmability Guardian to improve the path programmability of offline flows while maintaining low communication overhead. These goals are achieved through the fine-grained flow-level mappings enabled by existing SDN techniques. Programmabil-ityGuardian configures the flow-controller mappings to recover offline flows with a similar path programmability, maximize the total programmability of the offline flows, and minimize the total communication overhead for controlling these recovered flows. Simulation results of different controller failure scenarios show that ProgrammabilityGuardian recovers all offline flows with a balanced path programmability, improves the total programmability of the recovered flows up to 68%, and reduces the communication overhead up to 83%, compared with the baseline algorithm.},
+  keywords={Switches;Resilience;Quality of service;Routing;Wide area networks;Simulation;software-defined networking;wide area networks;control failure;resiliency;programmability},
+  doi={10.1109/IWQoS49365.2020.9212884},
+  ISSN={1548-615X},
+  month={June},}
