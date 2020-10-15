@@ -144,7 +144,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Talks & Presentations
 
-### [**28th IEEE/ACM International Symposium on Quality of Service, IWQoS 2020**](https://iwqos2020.ieee-iwqos.org/), Virtual Conference, June 15-17, 2020.
+### [**28th IEEE/ACM International Symposium on Quality of Service, IWQoS 2020**](https://iwqos2020.ieee-iwqos.org/) `Virtual Conference, June 15-17, 2020` <br>
 
 <!--
 ## Teaching
