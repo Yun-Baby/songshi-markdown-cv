@@ -111,6 +111,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
+<!--
 ### **Microsoft Research** `2020.5 -`
 
 _Research Intern_<br>
@@ -129,6 +130,7 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
+-->
 
 <!--
 ## Mentoring
@@ -140,6 +142,7 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 
 ## Honors & Awards
 
+<!--
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
@@ -150,6 +153,8 @@ Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
+-->
+
 
 ---
 
