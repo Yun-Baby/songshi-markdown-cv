@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-/*
+<!--
 ### **Carnegie Mellon University** `2018.9 -`
 
 ```
@@ -32,7 +32,7 @@ Pittsburgh, PA
 
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-*/
+-->
 
 ### **Beijing Institute of Technology** `2019.1 -`
 
