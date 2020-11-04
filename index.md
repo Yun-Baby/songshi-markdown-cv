@@ -178,6 +178,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
 -->
 
-### Footer
+<!-- ### Footer
 
 Last updated: Nov 2020
+-->
