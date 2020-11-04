@@ -160,7 +160,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Talks & Presentations
 
-### [**28th IEEE/ACM International Symposium on Quality of Service, IWQoS 2020**](https://iwqos2020.ieee-iwqos.org/) `Virtual Conference, June 15-17, 2020` <br>
+### [**28th IEEE/ACM International Symposium on Quality of Service, IWQoS 2020**](https://iwqos2020.ieee-iwqos.org/) `Hangzhou, China, June 15-17, 2020` <br>
 
 <!--
 ## Teaching
@@ -178,6 +178,6 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
 -->
 
-<!-- ### Footer
+### Footer
 
-Last updated: Oct 2020 -->
+Last updated: Nov 2020
