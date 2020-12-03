@@ -1,5 +1,5 @@
 ---
-layout: 窦松石
+layout: CV
 title: Songshi Dou
 email:
   url: mailto:songshidou@bit.edu.cn
