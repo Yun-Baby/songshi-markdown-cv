@@ -9,7 +9,7 @@ homepage:
   text: https://yun-baby.github.io/songshi-markdown-cv/
 ---
 
-## Songshi **Dou**
+# Songshi **Dou**
 
 <!--
 include contact information from the front matter
@@ -51,6 +51,7 @@ Beijing, China
 
 - B.S. in Automation, School of Control and Computer Enginering
 
+---
 
 ## Publications
 
@@ -107,7 +108,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 -->
 
-
+---
 
 ## Experience
 
@@ -139,6 +140,8 @@ Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reu
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 -->
+
+---
 
 ## Honors & Awards
 
