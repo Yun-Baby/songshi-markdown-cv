@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: cv
 title: Songshi Dou
 email:
   url: mailto:songshidou@hotmail.com
