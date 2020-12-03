@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: 窦松石
 title: Songshi Dou
 email:
   url: mailto:songshidou@bit.edu.cn
@@ -9,7 +9,7 @@ homepage:
   text: https://yun-baby.github.io/songshi-markdown-cv/
 ---
 
-# Songshi **Dou**
+## Songshi **Dou**
 
 <!--
 include contact information from the front matter
