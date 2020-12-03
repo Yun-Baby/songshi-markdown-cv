@@ -51,7 +51,6 @@ Beijing, China
 
 - B.S. in Automation, School of Control and Computer Enginering
 
----
 
 ## Publications
 
@@ -108,7 +107,6 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 -->
 
----
 
 ## Experience
 
@@ -141,7 +139,6 @@ Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reu
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 -->
 
----
 
 ## Honors & Awards
 
@@ -162,7 +159,6 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 -->
 
 
----
 
 ## Talks & Presentations
 
