@@ -2,8 +2,8 @@
 layout: CV
 title: Songshi Dou
 email:
-  url: mailto:songshidou@bit.edu.cn
-  text: songshidou@bit.edu.cn
+  url: mailto:songshidou@hotmail.com
+  text: songshidou@hotmail.com
 homepage:
   url: https://yun-baby.github.io/songshi-markdown-cv/
   text: https://yun-baby.github.io/songshi-markdown-cv/
