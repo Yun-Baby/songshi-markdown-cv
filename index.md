@@ -145,6 +145,9 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 
 ## Honors & Awards
 
+Excellent Master Student Scholarship Award, Beijing Institute of Technology `2019` <br>
+Bachelor Student Scholarship Award, North China Electric Power University `2015, 2016, 2017` <br>
+
 <!--
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -183,5 +186,5 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 
 <!-- ### Footer
 
-Last updated: Nov 2020
+Last updated: Dec 2020
 -->
