@@ -5,8 +5,8 @@ email:
   url: mailto:songshidou@hotmail.com
   text: songshidou@hotmail.com
 homepage:
-  url: https://yun-baby.github.io/songshi-markdown-cv/
-  text: https://yun-baby.github.io/songshi-markdown-cv/
+  url: https://yun-baby.github.io/CV/
+  text: https://yun-baby.github.io/CV/
 ---
 
 # Songshi **Dou**
